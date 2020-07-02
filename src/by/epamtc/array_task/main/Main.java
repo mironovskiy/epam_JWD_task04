@@ -9,7 +9,6 @@ import by.epamtc.array_task.task6.Task6;
 
 public class Main {
     public static void main(String[] args) {
-
         System.out.println("Задание 1");
         Task1 task1 = new Task1();
         int [][] matrix;
